@@ -1,4 +1,4 @@
-# Hi there, I'm Aadarsh[website] 👋 
+# Hi there, I'm Aadarsh, Portfolio website: [website] 👋 
 
 [![Website](https://img.shields.io/website?label=aadarshthakur.com&style=for-the-badge&url=https%3A%2F%aadarshthakur.com)](https://aadarshthakur.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/aadarsh805?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Aadarsh805)
@@ -43,15 +43,15 @@
 ➡️ [more blog posts...](https://aadarshthakur.hashnode.dev)
 
 ---
-
+<!-- 
 <details>
   <summary>:Aadarsh: Recent GitHub Activity</summary>
-  
+   -->
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
 
-</details>
+<!-- </details> -->
 
 <div>
   <summary>:Aadarsh: GitHub Stats</summary>
