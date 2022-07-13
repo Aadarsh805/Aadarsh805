@@ -1,66 +1,53 @@
-# Hi there, I'm Aadarsh, [website] 👋 
+<h1 align="center">Hey Guys, Aadarsh here!</h1>
+<h3 align="center">I am a Computer Science student, Frontend developer and UI/UX enthusiast</h3>
 
-[![Website](https://img.shields.io/website?label=aadarshthakur.com&style=for-the-badge&url=https%3A%2F%aadarshthakur.com)](https://aadarshthakur.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/aadarsh805?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Aadarsh805)
+- 💻 **[Check out my projects!](https://github.com/Aadarsh805?tab=repositories)**
+
+- Looking forward to collaborate on **Open Source Projects**
+
+- 👨‍💻 Currently working on **[Amazon clone](https://github.com/Aadarsh805/Amazon-clone)**
+
+- 📫 Reach 👇<br>
+
+[![](https://img.shields.io/badge/aadarsh-thakur-090a31227/?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aadarsh-thakur-090a31227/)
+[![](https://img.shields.io/badge/-thakuraadarsh805@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:aadarshthakur)](mailto:thakuraadarsh805@gmail.com)
+[![](https://img.shields.io/badge/-Aadarsh805-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aadarsh805)
+[![](https://img.shields.io/twitter/follow/Aadarsh805?style=social)](https://twitter.com/Aadarsh805)
+[![](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/aadarshthakur80501/)
+[![](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/aadarsh805)
+[![](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://aadarshthakur.hashnode.dev/)
+
+ <img align="right" alt="GIF" src="code.gif?raw=true" width="400" height="250" />
+ 
+![Profile visits](https://visitor-badge.laobi.icu/badge?page_id=Aadarsh805)
+
+### Languages & Tools :
+
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-5D1A60?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-682181?style=for-the-badge&logo=git&logoColor=white) 
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+![React.JS](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
+![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white) 
+![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black) 
 
 
-## I'm a Student, frontend developer, exploring various stuff such as devops, linux!!
+<!-- https://github.com/Aadarsh805/github-readme-stats -->
 
-- 🌱 I’m currently ReactJs, typescript, tailwindCSS
-- 👯 I’m looking to collaborate in open source projects
-- 🥅 2022 Goals: Get fluent with ReactJs and start with nextJs
-- ⚡ I love to help others and mentor those who are new in frontend development
+  <summary style="text-align : center"><b>💻 GitHub Profile Stats</b>
+  <br/>
+    <a href="https://github.com/Aadarsh805/github-readme-stats"><img alt="Aadarsh1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Aadarsh805&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="190px" width="420px"/></a>
+  <a href="https://github.com/Aadarsh805/github-readme-stats"><img alt="Aadarsh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadarsh805&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="170px" width="370px"/></a>
+  <br/>
+  </summary>
 
-### Connect with me:
+<p align="center">
+<a href="https://github.com/Aadarsh805/github-readme-activity-graph">
+ <img src="https://activity-graph.herokuapp.com/graph?username=Aadarsh805&theme=react-dark&area=true&hide_border=true" width="100%">
+</a>
+</p>
 
-[![website](./img/globe-light.svg)](https://aadarshthakur.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://aadarshthakur.com#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/Aadarsh805#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/Aadarsh805#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/aadarsh-thakur-090a31227#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/aadarsh-thakur-090a31227#gh-dark-mode-only)
-
-### Languages and Tools:
-
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]
-<br />
-<br />
-
----
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://aadarshthakur.hashnode.dev)
-
----
-<!-- 
-<details>
-  <summary>:Aadarsh: Recent GitHub Activity</summary>
-   -->
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
-<!-- </details> -->
-
-<div>
-  <summary>:Aadarsh: GitHub Stats</summary>
-
-  <img align="left" alt="Aadarsh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aadarsh805&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-</div>
-
-[website]: https://aadarshthakur.com
-[twitter]: https://twitter.com/Aadarsh805
-[linkedin]: https://www.linkedin.com/in/aadarsh-thakur-090a31227
-[Hashnode]: https://aadarshthakur.hashnode.dev
+- **[Detailed Stats](https://gitstats.me/Aadarsh805)**
