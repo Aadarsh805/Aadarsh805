@@ -11,7 +11,7 @@
 
 [![](https://img.shields.io/twitter/follow/Aadarsh805?style=social)](https://twitter.com/Aadarsh805)
 [![](https://img.shields.io/badge/-Aadarsh805-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aadarsh805)
-[![](https://img.shields.io/badge/aadarsh-thakur-090a31227/?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aadarsh-thakur-090a31227/)
+[![](https://img.shields.io/badge/aadarsh-thakur/?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aadarsh-thakur-090a31227/)
 [![](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/aadarshthakur80501/)
 [![](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/aadarsh805)
 [![](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://aadarshthakur.hashnode.dev/)
