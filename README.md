@@ -1,4 +1,4 @@
-<h1 align="center">Hey Guys, Aadarsh here!</h1>
+<h1 align="center">Hey there, I'm Aadarsh</h1>
 <h3 align="center">I am a Computer Science student, Frontend developer and UI/UX enthusiast</h3>
 
 - 💻 **[Check out my projects!](https://github.com/Aadarsh805?tab=repositories)**
@@ -9,13 +9,13 @@
 
 - 📫 Reach 👇<br>
 
-[![](https://img.shields.io/badge/aadarsh-thakur-090a31227/?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aadarsh-thakur-090a31227/)
-[![](https://img.shields.io/badge/-thakuraadarsh805@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:aadarshthakur)](mailto:thakuraadarsh805@gmail.com)
-[![](https://img.shields.io/badge/-Aadarsh805-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aadarsh805)
 [![](https://img.shields.io/twitter/follow/Aadarsh805?style=social)](https://twitter.com/Aadarsh805)
+[![](https://img.shields.io/badge/-Aadarsh805-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aadarsh805)
+[![](https://img.shields.io/badge/aadarsh-thakur-090a31227/?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aadarsh-thakur-090a31227/)
 [![](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/aadarshthakur80501/)
 [![](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/aadarsh805)
 [![](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://aadarshthakur.hashnode.dev/)
+[![](https://img.shields.io/badge/-thakuraadarsh805@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:aadarshthakur)](mailto:thakuraadarsh805@gmail.com)
 
  <img align="right" alt="GIF" src="code.gif?raw=true" width="400" height="250" />
  
@@ -23,16 +23,15 @@
 
 ### Languages & Tools :
 
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-5D1A60?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) 
-![Git](https://img.shields.io/badge/Git-682181?style=for-the-badge&logo=git&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
-![React.JS](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React.JS](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
 ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white) 
-![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black) 
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
+![Git](https://img.shields.io/badge/Git-682181?style=for-the-badge&logo=git&logoColor=white) 
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-5D1A60?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) 
 
 
 <!-- https://github.com/Aadarsh805/github-readme-stats -->
