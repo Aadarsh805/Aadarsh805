@@ -49,4 +49,6 @@
 </a>
 </p>
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aadarsh805&theme=dark&hide_border=true"/>
+
 - **[Detailed Stats](https://gitstats.me/Aadarsh805)**
