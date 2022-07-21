@@ -1,11 +1,13 @@
 <h1 align="center">Hey there, I'm Aadarsh</h1>
 <h3 align="center">I am a Computer Science student, Frontend developer and UI/UX enthusiast</h3>
 
+- [Personal Portfolio](https://github.com/Aadarsh805/Portfolio)
+
 - 💻 **[Check out my projects!](https://github.com/Aadarsh805?tab=repositories)**
 
 - Looking forward to collaborate on **Open Source Projects**
 
-- 👨‍💻 Currently working on **[Netflix clone](https://github.com/Aadarsh805/Netflix-clone)****[Personal Portfolio[(https://github.com/Aadarsh805/Portfolio)
+- 👨‍💻 Currently working on **[Netflix clone](https://github.com/Aadarsh805/Netflix-clone)**
 
 - 📫 Reach 👇<br>
 
