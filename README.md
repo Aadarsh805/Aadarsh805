@@ -5,7 +5,7 @@
 
 - Looking forward to collaborate on **Open Source Projects**
 
-- 👨‍💻 Currently working on **[Netflix clone](https://github.com/Aadarsh805/Netflix-clone)**
+- 👨‍💻 Currently working on **[Netflix clone](https://github.com/Aadarsh805/Netflix-clone)****[Personal Portfolio[(https://github.com/Aadarsh805/Portfolio)
 
 - 📫 Reach 👇<br>
 
