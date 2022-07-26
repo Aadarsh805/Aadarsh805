@@ -7,7 +7,7 @@
 
 - Looking forward to collaborate on **Open Source Projects**
 
-- 👨‍💻 Currently working on **[Messenger App](https://github.com/Aadarsh805/Messenger.git)**
+- 👨‍💻 Currently working on **[Messenger App](https://github.com/Aadarsh805/messenger-app.git)**
 
 - 📫 Reach 👇<br>
 
