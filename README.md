@@ -41,17 +41,12 @@
 
 <!-- https://github.com/Aadarsh805/github-readme-stats -->
 
-  <summary style="text-align : center"><b>💻 GitHub Profile Stats</b>
-  <br/>
-    <a href="https://github.com/Aadarsh805/github-readme-stats"><img alt="Aadarsh1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Aadarsh805&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="190px" width="420px"/></a>
-  <a href="https://github.com/Aadarsh805/github-readme-stats"><img alt="Aadarsh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadarsh805&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="170px" width="370px"/></a>
-  <br/>
-  </summary>
+### GitHub Profile Stats : 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aadarsh805&theme=dark&hide_border=true"/>
+  <img alt="Aadarsh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadarsh805&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" width="370px"/>
+<img  src="https://github-readme-stats.vercel.app/api?username=Aadarsh805&show_icons=true&theme=react" width="48%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Aadarsh805&theme=react" width="48%" >
 
 <p align="center">
-<a href="https://github.com/Aadarsh805/github-readme-activity-graph">
  <img src="https://activity-graph.herokuapp.com/graph?username=Aadarsh805&theme=react-dark&area=true&hide_border=true" width="100%">
-</a>
 </p>
