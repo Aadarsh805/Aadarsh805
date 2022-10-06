@@ -7,7 +7,7 @@
 
 - Looking forward to collaborate on **Open Source Projects**
 
-- 👨‍💻 Currently working on **[Portfolio](https://github.com/Aadarsh805/portfolio)**
+- 👨‍💻 Currently working on **[Groovy](https://github.com/Aman-Mandal/groovy)**
 
 - 📫 Reach 👇<br>
 
