@@ -1,15 +1,16 @@
 <h1 align="center">Hey there, I'm Aadarsh</h1>
 <h3 align="center">I am a Computer Science student, Frontend developer and UI/UX enthusiast</h3>
+<p align="left"> <a href="https://twitter.com/Aadarsh805" target="blank"><img src="https://img.shields.io/twitter/follow/Aadarsh805?logo=twitter&style=for-the-badge" alt="Aadarsh's twitter" /></a> </p>
 
-- [Personal Portfolio](https://github.com/Aadarsh805/Portfolio)
+**[Personal Portfolio](https://github.com/Aadarsh805/Portfolio)**
 
-- 💻 **[Check out my projects!](https://github.com/Aadarsh805?tab=repositories)**
+- [Check out all my projects!](https://github.com/Aadarsh805?tab=repositories)
 
 - Looking forward to collaborate on **Open Source Projects**
 
-- 👨‍💻 Currently working on **[Groovy](https://github.com/Aman-Mandal/groovy)**
+- Currently working on **[Groovy](https://github.com/Aman-Mandal/groovy)**
 
-- 📫 Reach 👇<br>
+Reach 👇<br>
 
 [![](https://img.shields.io/twitter/follow/Aadarsh805?color=blue&logo=blue&logoColor=blue&style=for-the-badge&labelColor=blue)](https://twitter.com/Aadarsh805)
 [![](https://img.shields.io/badge/Aadarsh-blue?style=for-the-badge&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/aadarsh-thakur-090a31227/)
