@@ -1,6 +1,5 @@
 <h1 align="center">Hey there, I'm Aadarsh</h1>
 <h3 align="center">I am a Computer Science student, Frontend developer and UI/UX enthusiast</h3>
-<p align="left"> <a href="https://twitter.com/Aadarsh805" target="blank"><img src="https://img.shields.io/twitter/follow/Aadarsh805?logo=twitter&style=for-the-badge" alt="Aadarsh's twitter" /></a> </p>
 
 **[Personal Portfolio](https://github.com/Aadarsh805/Portfolio)**
 
@@ -23,8 +22,6 @@ Reach 👇<br>
 [![](https://img.shields.io/badge/-thakuraadarsh805@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:aadarshthakur)](mailto:thakuraadarsh805@gmail.com)
 
  <img align="right" alt="GIF" src="code.gif?raw=true" width="400" height="250" />
- 
-![Profile visits](https://visitor-badge.laobi.icu/badge?page_id=Aadarsh805)
 
 ### Languages & Tools :
 
