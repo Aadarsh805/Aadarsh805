@@ -6,7 +6,9 @@
 
 - [Check out all my projects!](https://github.com/Aadarsh805?tab=repositories)
 
-- Looking forward to collaborate on **Open Source Projects**
+- Looking forward to collaborate on **More Open Source Projects**
+
+- Looking to join a startup as a frontend intern
 
 - Currently working on **[Groovy](https://github.com/Aman-Mandal/groovy)**
 
