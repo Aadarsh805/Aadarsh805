@@ -9,7 +9,7 @@
 
 - Looking to join a startup as a frontend intern
 
-- Currently working on **[Groovy](https://github.com/Aman-Mandal/groovy)**
+- Currently working on **[Luxuray](https://github.com/Aadarsh805/Luxuray)**
 
 Reach 👇<br>
 
