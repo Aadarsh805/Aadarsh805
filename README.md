@@ -9,7 +9,7 @@
 
 - Looking to join a startup as a frontend intern
 
-- Currently working on **[Luxuray](https://github.com/Aadarsh805/Luxuray)**
+- Currently working on **[TweetSage](https://github.com/Aadarsh805/TweetSage.ai)**
 
 Reach 👇<br>
 
