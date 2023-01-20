@@ -9,7 +9,7 @@
 
 - Looking to join a startup as a frontend intern
 
-- Currently working on **[TweetSage](https://github.com/Aadarsh805/TweetSage.ai)**
+- Currently working on **[100daysofcode-tracker](https://github.com/Aadarsh805/100daysofcode-tracker)**
 
 Reach 👇<br>
 
