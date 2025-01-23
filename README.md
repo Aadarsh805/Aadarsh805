@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/95094057/215592775-3941950a-b05f-4674-a58e-4d1ef3f6e059.gif" width='50%'/>
 </p>
 <h1 align="center">Hey there, I'm Aadarsh</h1>
-<h3 align="center">I am a Computer Science student, Frontend developer and UI/UX enthusiast</h3>
+
 
 **[Personal Portfolio](https://github.com/Aadarsh805/Portfolio)**
 
