@@ -10,10 +10,6 @@
 
 - Looking forward to collaborate on **More Open Source Projects**
 
-- Looking to join a startup as a frontend intern
-
-- Currently working on **[100daysofcode-tracker](https://github.com/Aadarsh805/100daysofcode-tracker)**
-
 Reach 👇<br>
 
 [![](https://img.shields.io/twitter/follow/Aadarsh805?color=blue&logo=blue&logoColor=blue&style=for-the-badge&labelColor=blue)](https://twitter.com/Aadarsh805)
